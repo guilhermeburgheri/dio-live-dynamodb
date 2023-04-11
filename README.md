@@ -4,6 +4,9 @@ Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
 ### Serviço utilizado
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
+  
+### Por que utilizar o DynamoDB?
+  - O DynamoDB é um serviço de banco de dados não relacional rápido e flexível para qualquer escala, recomendado para aplicações que precisam de alta disponibilidade e desempenho consistente em grandes escalas. O DynamoDB permite que os clientes transfiram os encargos administrativos de operação e escalabilidade de bancos de dados distribuídos para a AWS.
 
 ### Comandos para execução do experimento:
 
